@@ -1,0 +1,11 @@
+Area Plots
+Histograms
+Bar Charts
+Pie Charts
+Box Plots
+Scatter Plots
+Bubble Plots
+Lab: Basic Visualization Tools
+Lab: Specialized Visualization Tools
+Quiz: Basic Visualization Tools
+Quiz: Specialized Visualization Tool
